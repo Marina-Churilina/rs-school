@@ -18,7 +18,8 @@ IT area is new for me. I plan to get main knowledge during current courses and s
 
 #### 5. Code sample
 
-```<form action="/people">
+```
+<form action="/people">
     <label>
         <input type="radio" name="gender" value="yes">
         Да
